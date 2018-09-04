@@ -18,6 +18,7 @@ console.log();
 console.log("Values Predictions");
 console.log("It will produce 9");
 console.log(4 + 5);
+
 console.log();
 console.log("It will produce 4 + 5");
 console.log("4 + 5");
@@ -25,6 +26,11 @@ console.log("4 + 5");
 console.log()
 console.log("It will produce 45");
 console.log("4" + "5");
+console.log();
 
+//Playing with variables Celsius to Fahrenheit
+var tempCelsius = 32;
+console.log("Celsius to Fahrenheit");
+console.log(tempCelsius * 9 / 5 + 32);
 
 console.log();
