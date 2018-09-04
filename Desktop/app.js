@@ -14,7 +14,17 @@ console.log(num1 * num2);
 console.log(num1 / num2);
 console.log();
 
+//3..2..1 Values Prediction
+console.log("Values Predictions");
+console.log("It will produce 9");
+console.log(4 + 5);
+console.log();
+console.log("It will produce 4 + 5");
+console.log("4 + 5");
 
+console.log()
+console.log("It will produce 45");
+console.log("4" + "5");
 
 
 console.log();
